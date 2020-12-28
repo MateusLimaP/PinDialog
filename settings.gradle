@@ -1,0 +1,4 @@
+rootProject.name='My First Library'
+include ':app'
+include ':mylibrary'
+include ':pindialog'

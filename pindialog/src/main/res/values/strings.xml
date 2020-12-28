@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Input_pin_cod">Input your pin code bellow</string>
+    <string name="forgot_pin">Forgot?</string>
+    <string name="Wrong_pin">Wrong Pin</string>
+</resources>
