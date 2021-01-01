@@ -1,4 +1,6 @@
 # PinDialog
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 PinDalog is a simple library that aims to quickly create a requested pin verification dialog whenever the application is opened, avoiding unauthorized use of it.
 
 ![pinDialogGif](https://user-images.githubusercontent.com/76568808/103243749-d5aac900-496b-11eb-815b-edf739039343.gif)
